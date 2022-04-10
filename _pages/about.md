@@ -14,6 +14,6 @@ permalink: /about/
 >
 >喵
 ___
-邮箱<dragonkingze@outlook.com>
-废话[Ace的废话](https://ace2003.github.io/bb)
+邮箱<dragonkingze@outlook.com>  
+废话[Ace的废话](https://ace2003.github.io/bb)  
 QQ2304515590
