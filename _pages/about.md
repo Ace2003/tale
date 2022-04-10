@@ -11,4 +11,4 @@ permalink: /about/
 >双性恋
 >喵
 
-邮箱[!dragonkingze@outlook.com]
+邮箱dragonkingze@outlook.com
