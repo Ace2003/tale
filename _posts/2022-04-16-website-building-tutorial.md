@@ -3,7 +3,7 @@ layout: post
 title:  "建站教程"
 author: "Ace"
 comments: true
-tags: Tale
+tags: 杂谈
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
