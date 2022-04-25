@@ -4,7 +4,7 @@ title: "想法"
 permalink: /bb/
 ---
 
-<div>
+<div class="Site">
     <main id="app">
         <section class="item" v-for="item in contents" v-cloak>
             <p v-html='item.attributes.content'></p>
@@ -16,12 +16,9 @@ permalink: /bb/
         </div>
     </main>
     <footer>
-    <div align="center">
-        <img src="./Logo-8.0.png" height="10%" width="10%" style="border-radius:50%;margin-top: 1em;margin-bottom: 0.5em;"/>
-    </div>
-    <span>
-      &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/Ace2003/ace2003.github.io/">Tale</a> theme.
-    </span>
+        <span>
+         &copy;Made with Jekyll using the <a href="https://github.com/Ace2003/ace2003.github.io/">Tale</a> theme.
+         </span>
     </footer>
 </div>
 <script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
@@ -134,6 +131,17 @@ permalink: /bb/
         max-width: 500px;
         margin: 0 auto;
         padding: 0 20px;
+    }
+
+    .Site {
+        display: flex;
+        display: -webkit-flex; /* Safari */
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .Site-content {
+        flex: 1;
     }
     
     .item {
