@@ -29,6 +29,8 @@ permalink: /about/
 + 铲屎官
 + 双性恋
 + 恋足癖
++ 海迷
++ INFP
 
 ## 联系方式
 + 邮箱地址：dragonkingze@outlook.com
